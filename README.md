@@ -20,7 +20,7 @@ Takes breast tissue images as input
 Accurately classifies them as Malignant (M) or Normal (N)
 Achieves high performance in terms of accuracy and reliability
 ## 👥 Contributors
-Nait Cherif Sabrinel
-Dob Serine
-Mesgui Alae
-Ichrak
+-Nait Cherif Sabrinel
+-Dob Serine
+-Mesgui Alae
+-Ichrak
